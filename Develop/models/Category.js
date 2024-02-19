@@ -7,12 +7,15 @@ class Category extends Model {}
 Category.init(
   {
     id: {
+      onDelete: 'CASCADE',
+      // onDelete: 'Set Null',
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
       autoIncrement: true
     },
     category_name: {
+      onDelete: 'CASCADE',
       type: DataTypes.STRING,
       allowNull: false
     },
