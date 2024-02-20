@@ -24,7 +24,6 @@ Users must connect to local host, use terminal to run seeds and nodemon to start
 
 ## Video Walkthrough
 
-https://drive.google.com/file/d/1leiMK5Z7iqKC6v4WvSuwOa31wKOAPixx/view?usp=sharing
 
 
 ## License
