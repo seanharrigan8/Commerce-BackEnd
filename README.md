@@ -23,8 +23,7 @@ To install, copy/clone repo. Install necessary dependencies (MySQL2, Sequelize, 
 Users must connect to local host, use terminal to run seeds and nodemon to start application through the server.js file. After that, the app listens at port and all further interactions can be done through the routes in insomnia.
 
 ## Video Walkthrough
-
-
+https://drive.google.com/file/d/1UFc0aWnDIiRJBuaPhwseJBecDJVvqWHC/view?usp=sharing
 
 ## License
 This project is covered under the MIT license.
